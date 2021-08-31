@@ -1,2 +1,2 @@
 # LoginGUI
-A simple Login with a GUI in Java
+A simple Login form with a GUI in Java, made for a site.
